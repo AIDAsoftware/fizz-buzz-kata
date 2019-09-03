@@ -1,0 +1,14 @@
+{
+  "name": "fizzbuzz-kata",
+  "version": "1.0.0",
+  "description": "An good coding kata to take your first TDD experience :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "aidacanarias",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
